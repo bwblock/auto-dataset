@@ -19,3 +19,7 @@ Notes:
 Rsquared score-training data:  0.81536
 
 Rsquared score-test data:  0.81208
+
+You can view the visualization here:  http://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
+
+And the price-model notebook here: http://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/price-model.html
