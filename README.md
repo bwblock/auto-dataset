@@ -16,9 +16,9 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <i>price-model</i> contains a linear model of used car pricing based on available quantitative and categorical features. Current results of the model are as follows:
 
-<i>Rsquared score-training data:  0.81536</i>
-
-<i>Rsquared score-test data:  0.81208</i>
+<i>Rsquared score-training data:  0.81503
+	
+Rsquared score-test data:  0.81267</i>
 
 View the visualization notebook here:  https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
 
