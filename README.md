@@ -20,6 +20,6 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <i>Rsquared score-test data:  0.81208</i>
 
-View the visualization notebook here:  http://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
+View the visualization notebook here:  https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
 
-And the price-model notebook here: http://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/price-model.html
+And the price-model notebook here: https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/price-model.html
