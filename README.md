@@ -1,4 +1,4 @@
-### auto-dataset
+### Used Cars Dataset
 
 This project is an analysis of a used car listings dataset found on Kaggle <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"> here.</a>
 
