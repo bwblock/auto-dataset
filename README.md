@@ -1,6 +1,6 @@
 ### auto-dataset
 
-This project is an analysis of the used cars dataset found on Kaggle <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"> here.</a>
+This project is an analysis of a used car listings dataset found on Kaggle <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"> here.</a>
 
 The dataset has been provided under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CCO</a> Public Domain license
 
