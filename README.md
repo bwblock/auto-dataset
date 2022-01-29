@@ -16,7 +16,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <i>price-model</i> contains a linear model of used car pricing based on available quantitative and categorical features.
 
-### Results:
+#### Results:
 
 Current results of the model are as follows:
 
