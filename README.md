@@ -16,13 +16,17 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <i>price-model</i> contains a linear model of used car pricing based on available quantitative and categorical features.
 
+.ipynb files should render directly on github, you can also view the corresponding html files here:
+
+Visualization notebook:  https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
+
+Price-model notebook: https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/price-model.html
+
 #### Results:
 
-Current results of the model are as follows:
+Current results of the price model are as follows:
 
 - Rsquared score-training data:  0.81484
 - Rsquared score-test data:  0.81241
 
-View the visualization notebook here:  https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
 
-And the price-model notebook here: https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/price-model.html
