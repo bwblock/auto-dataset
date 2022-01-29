@@ -1,16 +1,16 @@
-## auto-dataset
+### auto-dataset
 
 This project is an analysis of the used cars dataset found on Kaggle <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"> here.</a>
 
 The dataset has been provided under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CCO</a> Public Domain license
 
-Requirements:
+#### Requirements:
 
 - <a href="https://jupyter.org/"> Jupyter notebooks </a>
 - <a href="https://www.anaconda.com/"> Anaconda package</a>
 - vehicles.csv
 
-Notes:
+#### Notes:
 
 <i>visualization-01</i> contains visualizations of key elements of the dataset including correlated features and features grouped by manufacturer and fuel type
 
