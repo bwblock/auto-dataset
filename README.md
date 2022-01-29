@@ -16,7 +16,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <i>price-model</i> contains a linear model of used car pricing based on available quantitative and categorical features.
 
-.ipynb files should render directly on github, you can also view the corresponding html files here:
+Jupyter notebook .ipynb files should render directly on github, otherwise you can view the corresponding .html files here:
 
 Visualization notebook:  https://htmlpreview.github.io/?https://github.com/bwblock/auto-dataset/blob/main/visualization-01.html
 
