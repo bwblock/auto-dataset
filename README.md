@@ -29,4 +29,6 @@ Current results of the price model are as follows:
 - Rsquared score-training data:  0.81484
 - Rsquared score-test data:  0.81241
 
+In other words, 81 percent of variance in the listing prices is explained by the model.
+
 
